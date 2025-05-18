@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "nombre": "Parque Urbano",
+      "descripcion": "Paseos, fuentes y juegos",
+      "lat": -17.7839,
+      "lng": -63.1765
+    },
+    {
+      "id": 2,
+      "nombre": "Plaza Metropolitana",
+      "descripcion": "24 de Septiembre",
+      "lat": -17.782,
+      "lng": -63.181
+    },
+    {
+      "id": 3,
+      "nombre": "Estación Argentina",
+      "descripcion": "Estación",
+      "lat": -17.7863,
+      "lng": -63.1687
+    },
+    {
+      "id": 4,
+      "nombre": "La Mujer Cruceña",
+      "descripcion": "Monumento emblemático de Santa Cruz",
+      "lat": -17.774804,
+      "lng": -63.182222
+    },
+    {
+      "id": 5,
+      "nombre": "Jose manuel Baca",
+      "descripcion": "Cañoto",
+      "lat": -17.784403,
+      "lng": -63.189305
+    },
+    {
+      "id": 6,
+      "nombre": "Monumento a Andréz Ibáñez",
+      "descripcion": "Monumento en honor a Andréz Ibáñez",
+      "lat": -17.793326,
+      "lng": -63.187056
+    },
+    {
+      "id": 7,
+      "nombre": "Sucre 712-774",
+      "descripcion": "Homenaje a Sucre",
+      "lat": -17.782981,
+      "lng": -63.172308
+    },
+    {
+      "id": 8,
+      "nombre": "Warnes 736-742",
+      "descripcion": "Homenaje a Warnes",
+      "lat": -17.785482,
+      "lng": -63.171931
+    },
+    {
+      "id": 9,
+      "nombre": "La Madre India",
+      "descripcion": "Monumento emblemático de Santa Cruz",
+      "lat": -17.798023,
+      "lng": -63.175030
+    },
+    {
+      "id": 10,
+      "nombre": "Catedral Metropolitana",
+      "descripcion": "Catedral principal de Santa Cruz de la Sierra",
+      "lat": -17.783291,
+      "lng": -63.182656
+    },
+    {
+      "id": 11,
+      "nombre": "Plazuela del Estudiante",
+      "descripcion": "Pequeña plaza en el centro de Santa Cruz",
+      "lat": -17.774606,
+      "lng": -63.182749
+    },
+    {
+      "id": 12,
+      "nombre": "Parque Arenal",
+      "descripcion": "Parque recreativo en Santa Cruz",
+      "lat": -17.778764,
+      "lng": -63.180666
+    }
+  ]
+  
